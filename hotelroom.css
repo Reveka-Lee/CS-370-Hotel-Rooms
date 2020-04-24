@@ -1,4 +1,9 @@
+  @font-face{
+    font-family: personalFont;
+    src: url(BarlowCondensed-Regular.woff);
+  }
+
   body{
       background-image: url("hotelroombg.jpg");
-  
+      font-family: personalFont;
   }
