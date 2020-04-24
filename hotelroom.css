@@ -18,3 +18,8 @@
     background-color: white; 
     opacity: 0.5;
   }
+
+  #a, #b, #c{
+    height: 60px;
+    width: 60px;  
+  }
