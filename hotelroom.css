@@ -17,8 +17,6 @@
     display: inline-block;
     background-color: white; 
     opacity: 0.5;
-    height: 120px;
-    width: 120px;
   }
 
   #hotela:hover, #hotelb:hover, #hotelc:hover{
