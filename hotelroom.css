@@ -8,3 +8,7 @@
       font-family: personalFont;
       text-align: center;
   }
+  
+  #a, #b, #c{
+    display: inline-block;
+  }
