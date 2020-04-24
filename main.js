@@ -3,7 +3,7 @@ next();
 
 function next() {
   var i;
-  var x = document.getElementsByClassName("pic");
+  var x = document.getElementsById("pic");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
